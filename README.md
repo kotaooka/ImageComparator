@@ -53,5 +53,8 @@ ONにした場合スライダーで枠を描画する閾値を変更すること
 ### 比較対象の画像（左右をトリミングして比較）
 ![body](https://github.com/kotaooka/ImageComparator/assets/115392256/016517e0-076b-426b-8cea-2501c5e519bd)
 
+#### 引用元:サイゼリヤ2023年12月 間違い探し
+`https://www.saizeriya.co.jp/entertainment/2312.html`
+
 
 
