@@ -1,6 +1,7 @@
 # ImageComparator
 
-ImageComparatorは、2つの画像を比較し、それらの間の差分を視覚化するためのPythonスクリプトです。このスクリプトは、OpenCVとmatplotlibを使用して画像を処理し、Tkinterを使用してGUIを提供します。
+ImageComparatorは、2つの画像を比較し、それらの間の差分を視覚化するためのPythonスクリプトです。
+このスクリプトは、OpenCVとmatplotlibを使用して画像を処理し、Tkinterを使用してGUIを提供します。
 
 ## 必要なパッケージ
 Python 3.x
