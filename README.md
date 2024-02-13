@@ -56,5 +56,8 @@ ONにした場合スライダーで枠を描画する閾値を変更すること
 #### 引用元:サイゼリヤ2023年12月 間違い探し
 `https://www.saizeriya.co.jp/entertainment/2312.html`
 
+## ライセンス
+Apache-2.0 license
+
 
 
