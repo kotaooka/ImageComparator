@@ -3,12 +3,6 @@
 ImageComparatorは、2つの画像を比較し、それらの間の差分を視覚化するためのPythonスクリプトです。
 このスクリプトは、OpenCVとmatplotlibを使用して画像を処理し、Tkinterを使用してGUIを提供します。
 
-## 必要なパッケージ
-Python 3.x
-OpenCV
-Matplotlib
-NumPy
-
 ## 導入
 1. Pyhtonをインストールしてください https://www.python.org/downloads/
 2. コマンドプロンプトから下記ライブラリをインストールしてください
@@ -17,7 +11,8 @@ NumPy
    pip install Matplotlib
    pip install NumPy
   ```
-　3.`ImageComparator.zip`を解凍し、好きなディレクトリに配置します
+3. https://github.com/kotaooka/ImageComparator/releases から`ImageComparator.zip`をダウンロードします
+4. `ImageComparator.zip`を解凍し、好きなディレクトリに配置します
 
 ## 使用方法
 1. `ImageComparator.bat`からPythonスクリプトを実行します。
