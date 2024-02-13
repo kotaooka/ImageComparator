@@ -9,7 +9,7 @@ OpenCV
 Matplotlib
 NumPy
 
-##導入
+## 導入
 1. Pyhtonをインストールしてください https://www.python.org/downloads/
 2. コマンドプロンプトから pip install OpenCV pip install Matplotlib pip install NumPy
 
