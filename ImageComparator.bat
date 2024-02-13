@@ -9,3 +9,5 @@ if not exist ImageComparator.py (
     exit /b
 )
 python ImageComparator.py
+
+pause
