@@ -7,9 +7,9 @@ ImageComparatorは、2つの画像を比較し、それらの間の差分を視�
 1. Pythonをインストールしてください。 https://www.python.org/downloads/
 2. コマンドプロンプトから下記ライブラリをインストールしてください。
   ```
-   pip install OpenCV
-   pip install Matplotlib
-   pip install NumPy
+   $ pip install opencv-python
+   $ pip install Matplotlib
+   $ pip install NumPy
   ```
 3. https://github.com/kotaooka/ImageComparator/releases から`ImageComparator.zip`をダウンロードします。
 4. `ImageComparator.zip`を解凍し、好きなディレクトリに配置します。
