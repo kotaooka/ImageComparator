@@ -8,7 +8,10 @@ Python 3.x
 OpenCV
 Matplotlib
 NumPy
-tkinter
+
+##導入
+1. Pyhtonをインストールしてください https://www.python.org/downloads/
+2. コマンドプロンプトから pip install OpenCV pip install Matplotlib pip install NumPy
 
 ## 使用方法
 1. batファイルからスクリプトを実行します。GUIが表示されます。
