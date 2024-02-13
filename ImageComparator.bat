@@ -8,6 +8,5 @@ if not exist ImageComparator.py (
     echo ImageComparator.py does not exist. Please check the file path and try again.
     exit /b
 )
-python ImageComparator.py
-
 pause
+python ImageComparator.py
