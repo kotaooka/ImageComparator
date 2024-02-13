@@ -11,10 +11,16 @@ NumPy
 
 ## 導入
 1. Pyhtonをインストールしてください https://www.python.org/downloads/
-2. コマンドプロンプトから pip install OpenCV pip install Matplotlib pip install NumPy
+2. コマンドプロンプトから下記ライブラリをインストールしてください
+  ```
+   pip install OpenCV
+   pip install Matplotlib
+   pip install NumPy
+  ```
+　3.`ImageComparator.zip`を解凍し、好きなディレクトリに配置します
 
 ## 使用方法
-1. batファイルからスクリプトを実行します。GUIが表示されます。
+1. `ImageComparator.bat`からPythonスクリプトを実行します。
 2. "画像選択"ボタンをクリックして、比較する2つの画像を選択します。
 3. "差分検出閾値"スライダーを使用して、差分検出の閾値を設定します。
 4. "マッチ比率"スライダーを使用して、マッチングの比率を設定します。
