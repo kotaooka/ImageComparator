@@ -4,15 +4,15 @@ ImageComparatorは、2つの画像を比較し、それらの間の差分を視�
 このスクリプトは、OpenCVとmatplotlibを使用して画像を処理し、Tkinterを使用してGUIを提供します。
 
 ## 導入
-1. Pyhtonをインストールしてください https://www.python.org/downloads/
-2. コマンドプロンプトから下記ライブラリをインストールしてください
+1. Pythonをインストールしてください。 https://www.python.org/downloads/
+2. コマンドプロンプトから下記ライブラリをインストールしてください。
   ```
    pip install OpenCV
    pip install Matplotlib
    pip install NumPy
   ```
-3. https://github.com/kotaooka/ImageComparator/releases から`ImageComparator.zip`をダウンロードします
-4. `ImageComparator.zip`を解凍し、好きなディレクトリに配置します
+3. https://github.com/kotaooka/ImageComparator/releases から`ImageComparator.zip`をダウンロードします。
+4. `ImageComparator.zip`を解凍し、好きなディレクトリに配置します。
 
 ## 使用方法
 1. `ImageComparator.bat`からPythonスクリプトを実行します。
@@ -23,7 +23,7 @@ ImageComparatorは、2つの画像を比較し、それらの間の差分を視�
 6. 結果の画像が新しいウィンドウで表示されます。
 
 ## 対応している画像の拡張子
-jpg,png,tiff
+`.png` `.jpg` `.tiff`
 
 
 ## 差分検出閾値スライダー
@@ -40,4 +40,5 @@ jpg,png,tiff
 一方、高いマッチ比率はより信頼性の高い特徴点のみをマッチングさせますが、その数は減少します。
 
 ## 差分に枠の描画
-ONにすると差分に四角い枠を描画します。ONにした場合スライダーで閾値を変更することができます。
+ONにすると差分に四角い枠を描画します。
+ONにした場合スライダーで枠を描画する閾値を変更することができます。
