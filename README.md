@@ -25,6 +25,8 @@ ImageComparatorは、2つの画像を比較し、それらの間の差分を視�
 ## 対応している画像の拡張子
 `.png` `.jpg` `.tiff`
 
+## ユーザーインターフェース
+![image](https://github.com/kotaooka/ImageComparator/assets/115392256/ae5d4db3-9480-40a3-a8a3-7e5b2d3bef07)
 
 ## 差分検出閾値スライダー
 閾値スライダーを動かすと、画像差分検出に使用される二値化の閾値が変化します。
@@ -39,6 +41,17 @@ ImageComparatorは、2つの画像を比較し、それらの間の差分を視�
 低いマッチ比率は多くの特徴点をマッチングさせますが、偽のマッチングが増加する可能性があります。
 一方、高いマッチ比率はより信頼性の高い特徴点のみをマッチングさせますが、その数は減少します。
 
-## 差分に枠の描画
+## 差分に枠を描画
 ONにすると差分に四角い枠を描画します。
 ONにした場合スライダーで枠を描画する閾値を変更することができます。
+
+## 実行結果
+
+### 画像の差分 （枠の描画OFF）
+![Figure_1](https://github.com/kotaooka/ImageComparator/assets/115392256/c7efa06b-fac1-4aa2-902a-699b8035fcf8)
+
+### 比較対象の画像（左右をトリミングして比較）
+![body](https://github.com/kotaooka/ImageComparator/assets/115392256/016517e0-076b-426b-8cea-2501c5e519bd)
+
+
+
