@@ -48,18 +48,4 @@ ONにすると差分に四角い枠を描画します。
 ONにした場合スライダーで枠を描画する閾値を変更することができます。
 
 ## 実行結果
-
-### 画像の差分 （枠の描画OFF）
-![Figure_1](https://github.com/kotaooka/ImageComparator/assets/115392256/c7efa06b-fac1-4aa2-902a-699b8035fcf8)
-
-### 比較対象の画像（左右をトリミングして比較）
-![body](https://github.com/kotaooka/ImageComparator/assets/115392256/016517e0-076b-426b-8cea-2501c5e519bd)
-
-#### 引用元:サイゼリヤ2023年12月 間違い探し
-`https://www.saizeriya.co.jp/entertainment/2312.html`
-
-## ライセンス
-Apache-2.0 license
-
-
-
+画像2を特徴点のマッチングで画像1に位置合わせしてから差分をとり、二値化した差分を画像1に重ねて表示します。枠の描画を ON にすると、差分を四角い枠で囲みます。
